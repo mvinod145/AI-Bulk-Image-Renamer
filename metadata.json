@@ -1,0 +1,6 @@
+{
+  "name": "AI Product Image Renamer",
+  "description": "An intelligent tool that uses AI to analyze product images, classify their pose (front, side, model, etc.), and automatically rename them according to a specified convention. Perfect for e-commerce catalog management.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
